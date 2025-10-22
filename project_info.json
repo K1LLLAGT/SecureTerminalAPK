@@ -1,0 +1,14 @@
+{
+  "project_name": "SecureTerminalAPK",
+  "version": "1.0.0-educational",
+  "created_date": "2025-10-21",
+  "purpose": "Educational & Research",
+  "features": [
+    "Android Terminal Emulation",
+    "Security Research Tools",
+    "AI Integration (Claude)",
+    "Comprehensive Logging",
+    "Root Integration (Educational)"
+  ],
+  "base_directory": "/data/data/com.termux/files/home/SecureTerminalAPK"
+}

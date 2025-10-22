@@ -1,0 +1,12 @@
+Log Statistics - Tue Oct 21 19:19:04 EDT 2025
+================================
+
+Total log files: 5
+Total errors: 0
+Total warnings: 0
+Total info messages: 80
+
+Disk usage: 49K
+
+Recent errors:
+

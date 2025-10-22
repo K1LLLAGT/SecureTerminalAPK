@@ -1,0 +1,37 @@
+# Build files
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+
+# Logs
+logs/**/*.log
+*.log
+
+# Sensitive data
+config/root/*.key
+config/security/*.key
+*.pem
+*.key
+
+# API keys
+*api_key*
+*.env
+
+# Backups
+backups/**/*
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
